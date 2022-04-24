@@ -6,8 +6,10 @@ Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.
 
 * Vítor Silva Pastor Gonzalez
 * Gustavo Mariz Andrade
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Charles Gonçalves Esteves
+* Rafael Cangussu DallarivaRafael Cangussu Dallariva
+* Tarcisio Ferraz Juste SilvaTarcisio Ferraz Juste Silva
+* Victor Soares Bergo de Aguiar
 
 ## Professores responsáveis
 
