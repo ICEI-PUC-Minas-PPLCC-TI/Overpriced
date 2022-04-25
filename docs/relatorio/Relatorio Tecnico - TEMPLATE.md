@@ -1,15 +1,24 @@
 # Informações do Projeto
 `TÍTULO DO PROJETO`  
 
-......  COLOQUE AQUI O SEU TEXTO ......
+......  Alto Custo de Jogos ......
 
 `CURSO` 
 
-......  COLOQUE AQUI O SEU TEXTO ......
+......  Ciência da Computação ......
 
 ## Participantes
 
-......  COLOQUE AQUI O SEU TEXTO ......
+...... > 
+Os membros do grupo são: 
+> - Charles Gonçalves Esteves
+> - Gustavo Mariz Andrade
+> - Rafael Cangussu Dallariva
+> - Tarcisio Ferraz Juste Silva
+> - Victor Soares Bergo de Aguiar
+> - Vítor Silva Pastor Gonzalez
+> - Alberto Araujo Neto 
+> ......
 
 > Inclua a lista dos membros da equipe com seus nomes completos.
 >
@@ -56,7 +65,8 @@
 
 ## Problema
 
-......  COLOQUE AQUI O SEU TEXTO ......
+......  O preço para comprar jogos no Brasil é extremamente alto, dificultando o acesso da maioria da população que gosta de jogos à parte do entretenimento mais lucrativa no mundo hoje. Neste projeto o grupo tem a intenção de achar uma maneira de disponibilizar jogos mais baratos para a população.
+ ......
 
 > Nesse momento você deve apresentar o problema que a sua aplicação deve
 > resolver. No entanto, não é a hora de comentar sobre a aplicação.
@@ -76,7 +86,7 @@
 
 ## Objetivos
 
-......  COLOQUE AQUI O SEU TEXTO ......
+......  Disponibilizar acessibilidade nos preços dos jogos ......
 
 > Aqui você deve descrever os objetivos do trabalho indicando que o
 > objetivo geral é desenvolver um software para solucionar o problema
@@ -89,7 +99,7 @@
 
 ## Justificativa
 
-......  COLOQUE AQUI O SEU TEXTO ......
+......  Como pessoas interessadas em jogos digitais, decidimos fazer um projeto com o intuito de disponibilizar certa acessibilidade sobre os preços dos jogos digitais devido ao seu alto custo. ......
 
 > Descreva a importância ou a motivação para trabalhar com esta aplicação
 > que você escolheu. Indique as razões pelas quais você escolheu seus
@@ -105,7 +115,7 @@
 
 ## Público-Alvo
 
-......  COLOQUE AQUI O SEU TEXTO ......
+......  Pessoas interessadas em comprar de jogos digitais. ......
 
 > Descreva quem serão as pessoas que usarão a sua aplicação indicando os
 > diferentes perfis. O objetivo aqui não é definir quem serão os
