@@ -7,8 +7,8 @@ Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.
 * Vítor Silva Pastor Gonzalez
 * Gustavo Mariz Andrade
 * Charles Gonçalves Esteves
-* Rafael Cangussu DallarivaRafael Cangussu Dallariva
-* Tarcisio Ferraz Juste SilvaTarcisio Ferraz Juste Silva
+* Rafael Cangussu Dallariva
+* Tarcisio Ferraz Juste Silva
 * Victor Soares Bergo de Aguiar
 * 
 
