@@ -10,11 +10,12 @@ Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.
 * Rafael Cangussu DallarivaRafael Cangussu Dallariva
 * Tarcisio Ferraz Juste SilvaTarcisio Ferraz Juste Silva
 * Victor Soares Bergo de Aguiar
+* 
 
 ## Professores responsáveis
 
-* Nome completo do professor 1
-* Nome completo do professor 2
+* Cleiton Silva Tavares
+* Walisson Ferreira de Carvalho
 
 ## Instruções de utilização
 
