@@ -79,9 +79,9 @@ Este projeto tem o intuito de criar um site visando ajudar as pessoas com proble
 
 ## Personas e Mapas de Empatia
 
-![Persona 1](imaages/../images/persona_1.png)
-![Persona 2](imaages/../images/persona_2.png)
-![Persona 3](imaages/../images/persona_3.png)
+![Persona 1](https://github.com/ICEI-PUC-Minas-PPLCC-TI/tiaw-ppl-cc-m-20221-t1g2_alto_custo_de_jogos/blob/master/docs/relatorio/images/Persona_1.png)
+![Persona 2](https://github.com/ICEI-PUC-Minas-PPLCC-TI/tiaw-ppl-cc-m-20221-t1g2_alto_custo_de_jogos/blob/master/docs/relatorio/images/Persona_2.png)
+![Persona 3](https://github.com/ICEI-PUC-Minas-PPLCC-TI/tiaw-ppl-cc-m-20221-t1g2_alto_custo_de_jogos/blob/master/docs/relatorio/images/Persona_3.png)
 
 ## Histórias de Usuários
 
