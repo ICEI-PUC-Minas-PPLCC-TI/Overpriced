@@ -20,12 +20,6 @@ Os membros do grupo são:
 > - Alberto Araujo Neto 
 > ......
 
-> Inclua a lista dos membros da equipe com seus nomes completos.
->
-> Os membros do grupo são: 
-> - Fulano da Silva
-> - Ciclano Albuquerque
-
 # Estrutura do Documento
 
 - [Informações do Projeto](#informações-do-projeto)
