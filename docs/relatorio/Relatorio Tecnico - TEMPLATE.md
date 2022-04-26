@@ -143,7 +143,7 @@ Os membros do grupo são:
 
 ## Personas e Mapas de Empatia
 
-......  https://github.com/ICEI-PUC-Minas-PPLCC-TI/tiaw-ppl-cc-m-20221-t1g2_alto_custo_de_jogos/blob/master/docs/relatorio/images/imagem_2022-04-26_191219243.png ......
+......  (imaages/ ../image/imagem_2022-04-26_191219243.png) ......
 
 
 > Relacione as personas identificadas no seu projeto e os respectivos mapas de empatia. Lembre-se que 
