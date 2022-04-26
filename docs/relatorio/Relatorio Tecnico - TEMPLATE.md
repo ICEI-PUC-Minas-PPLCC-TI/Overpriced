@@ -143,7 +143,7 @@ Os membros do grupo são:
 
 ## Personas e Mapas de Empatia
 
-......  (imaages/ ../image/imagem_2022-04-26_191219243.png) ......
+......  https://miro.com/app/board/uXjVOBvLNnc=/ ......
 
 
 > Relacione as personas identificadas no seu projeto e os respectivos mapas de empatia. Lembre-se que 
@@ -175,8 +175,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|Usuário do sistema  | Agilizar minhas compras de jogos   | Poupar tempo                           |
 
 > Apresente aqui as histórias de usuário que são relevantes para o
 > projeto de sua solução. As Histórias de Usuário consistem em uma
@@ -196,16 +195,17 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 ### Requisitos Funcionais
 
 |ID    | Descrição do Requisito  | Prioridade |
-|------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|------|----------------------------------------------------------------------|-------|
+|RF-001| Identificar preços atuais dos jogos em plataformas e sites diversos. | ALTA  | 
+|RF-002| Criar sistema de cadastro e notificação por e-mail.                  | MÉDIA |
+|RF-003| Fazer a comparação do preço entre as opções obtidas.                 | MÉDIA |
 
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
+|RNF-001| O sistema deve ser executável em qualquer plataforma  | MÉDIA | 
 |RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
 
 > Com base nas Histórias de Usuário, enumere os requisitos da sua
