@@ -79,7 +79,9 @@ Este projeto tem o intuito de criar um site visando ajudar as pessoas com proble
 
 ## Personas e Mapas de Empatia
 
-......  COLOQUE AQUI ......
+(imaages/../images/persona_1.png)
+(imaages/../images/persona_2.png)
+(imaages/../images/persona_3.png)
 
 
 > Relacione as personas identificadas no seu projeto e os respectivos mapas de empatia. Lembre-se que 
