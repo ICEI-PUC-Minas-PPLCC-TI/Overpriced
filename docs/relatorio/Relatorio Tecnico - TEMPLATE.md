@@ -134,7 +134,8 @@ Os membros do grupo são:
  
 # Especificações do Projeto
 
-......  COLOQUE AQUI O SEU TEXTO ......
+......  Este projeto tem o intuito de criar um site visando ajudar as pessoas com problemas na aquisição de jogos digitais, devido aos altos preços atuais.
+ ......
 
 > Apresente uma visão geral do que será abordado nesta parte do
 > documento, enumerando as técnicas e/ou ferramentas utilizadas para
