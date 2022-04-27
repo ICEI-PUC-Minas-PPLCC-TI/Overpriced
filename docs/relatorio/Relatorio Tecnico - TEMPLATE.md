@@ -91,20 +91,11 @@ Este projeto tem o intuito de criar um site visando ajudar as pessoas com proble
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Agilizar minhas compras de jogos   | Poupar tempo                           |
+|EU COMO        | QUERO/PRECISO                             |PARA                                        |   
+|Lucas         | Agilizar minhas compras de jogos           | Poupar tempo                               |
+|Pedro         | Comprar mais jogos porém barato            | Jogar mais jogos                           |     
+|Ana           | Adquirir jogos com preços acessíveis       | Jogar mesmo tendo dificuldades financeiras |  
 
-> Apresente aqui as histórias de usuário que são relevantes para o
-> projeto de sua solução. As Histórias de Usuário consistem em uma
-> ferramenta poderosa para a compreensão e elicitação dos requisitos
-> funcionais e não funcionais da sua aplicação. Se possível, agrupe as
-> histórias de usuário por contexto, para facilitar consultas
-> recorrentes à essa parte do documento.
->
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
 
 ## Requisitos
 
@@ -116,7 +107,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |------|----------------------------------------------------------------------|-------|
 |RF-001| Identificar preços atuais dos jogos em plataformas e sites diversos. | ALTA  | 
 |RF-002| Criar sistema de cadastro e notificação por e-mail.                  | MÉDIA |
-|RF-003| Fazer a comparação do preço entre as opções obtidas.                 | MÉDIA |
+|RF-003| Fazer a comparação do preço entre as opções obtidas.                 | ALTA |
 
 
 ### Requisitos não Funcionais
@@ -124,75 +115,27 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|-----------|
 |RNF-001| O sistema deve ser executável em qualquer plataforma  | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
-
-> Com base nas Histórias de Usuário, enumere os requisitos da sua
-> solução. Classifique esses requisitos em dois grupos:
->
-> - [Requisitos Funcionais (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
->   correspondem a uma funcionalidade que deve estar presente na
->   plataforma (ex: cadastro de usuário).
->
-> - [Requisitos Não Funcionais (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
->   correspondem a uma característica técnica, seja de usabilidade,
->   desempenho, confiabilidade, segurança ou outro (ex: suporte a
->   dispositivos iOS e Android).
->
-> Lembre-se que cada requisito deve corresponder à uma e somente uma
-> característica alvo da sua solução. Além disso, certifique-se de que
-> todos os aspectos capturados nas Histórias de Usuário foram cobertos.
-> 
-> **Links Úteis**:
-> 
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
-
+|RNF-002| O sistema deve permitir acessibilidade ao cliente     |  BAIXA | 
 
 ## Restrições
 
 O projeto está restrito pelos itens apresentados na tabela a seguir.
 
-|ID| Restrição                                             |
-|--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
-
-
-> Enumere as restrições à sua solução. Lembre-se de que as restrições
-> geralmente limitam a solução candidata.
-> 
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
-
+|ID| Restrição                                                                                |
+|--|------------------------------------------------------------------------------------------|
+|01| O projeto deverá ser entregue até o final do semestre                                    |
+|02| Não pode desenvolver módulos BackEnd                                                     |
+|03| Projeto contém 4 Sprints                                                                 |
+|04| Será usado a linguagem de marcação HTML e CSS, e a linguagem JavaScript                  |
+|05| Será usado a metodologia agile                                                           |
 
 # Projeto de Interface
 
-......  COLOQUE AQUI O SEU TEXTO DE INTRODUÇÃO ......
-
-> Apresente as principais interfaces da solução. Discuta como 
-> foram elaboradas de forma a atender os requisitos funcionais, não
-> funcionais e histórias de usuário abordados nas [Especificações do
-> Projeto](#especificações-do-projeto).
+O projeto foi feito para atender a todos os requisitos, levando em consideração as histórias de usuários de modo delicado, devido ao seu valor. O projeto foi discutido pela equipe diversas vezes.
 
 ## User Flow
 
-......  INCLUA AQUI O DIAGRAMA COM O FLUXO DO USUÁRIO NA APLICAÇÃO ......
-
-> Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor
-> mapear todo fluxo de telas do site ou app. Essa técnica funciona
-> para alinhar os caminhos e as possíveis ações que o usuário pode
-> fazer junto com os membros de sua equipe.
->
-> **Links Úteis**:
-> - [User Flow: O Quê É e Como Fazer?](https://medium.com/7bits/fluxo-de-usu%C3%A1rio-user-flow-o-que-%C3%A9-como-fazer-79d965872534)
-> - [User Flow vs Site Maps](http://designr.com.br/sitemap-e-user-flow-quais-as-diferencas-e-quando-usar-cada-um/)
-> - [Top 25 User Flow Tools & Templates for Smooth](https://www.mockplus.com/blog/post/user-flow-tools)
->
-> **Exemplo**:
-> 
-> ![Exemplo de UserFlow](images/userflow.jpg)
-
+![UserFlow](https://github.com/ICEI-PUC-Minas-PPLCC-TI/tiaw-ppl-cc-m-20221-t1g2_alto_custo_de_jogos/blob/master/docs/relatorio/images/UserFlow.png)
 
 ## Wireframes
 
