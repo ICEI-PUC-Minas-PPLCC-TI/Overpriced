@@ -159,8 +159,6 @@ A equipe utilizou o Discord para fazer reuniões, nessas reuniões, foi discutid
 
 ## Ferramentas
 
-......  COLOQUE AQUI O SEU TEXTO - SIGA O EXEMPLO DA TABELA ABAIXO  ......
-
 | Ambiente                        | Plataforma              |Link de Acesso                                        |
 |---------------------------------|-------------------------|------------------------------------------------------|
 |Processo de Design Thinkgin      | Miro                |  https://miro.com/XXXXXXX                                |    
