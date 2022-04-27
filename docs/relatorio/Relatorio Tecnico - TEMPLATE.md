@@ -172,38 +172,27 @@ A equipe utilizou o Discord para fazer reuniões, nessas reuniões, foi discutid
 
 ## Controle de Versão
 
-......  COLOQUE AQUI O SEU TEXTO ......
+O Git foi o software de controle de versão escolhido.
+O repositório Git é hospedado no GitHub.
+Devido  ao projeto ser relativamente pequeno, optamos não introduzir metodologias mais bem formuladas para economizarmos tempo.
+- Será feita a manutenção de um branch (main)
+- Novas (feature) é introduzida em uma branch separada, que poderá ser unificada à (main) através da solicitação de pull requests
 
-> Discuta como a configuração do projeto foi feita na ferramenta de
-> versionamento escolhida. Exponha como a gerência de tags, merges,
-> commits e branchs é realizada. Discuta como a gerência de issues foi
-> realizada.
-> A ferramenta de controle de versão adotada no projeto foi o
-> [Git](https://git-scm.com/), sendo que o [Github](https://github.com)
-> foi utilizado para hospedagem do repositório `upstream`.
-> 
-> O projeto segue a seguinte convenção para o nome de branchs:
-> 
-> - `master`: versão estável já testada do software
-> - `unstable`: versão já testada do software, porém instável
-> - `testing`: versão em testes do software
-> - `dev`: versão de desenvolvimento do software
-> 
-> Quanto à gerência de issues, o projeto adota a seguinte convenção para
-> etiquetas:
-> 
-> - `bugfix`: uma funcionalidade encontra-se com problemas
-> - `enhancement`: uma funcionalidade precisa ser melhorada
-> - `feature`: uma nova funcionalidade precisa ser introduzida
->
-> **Links Úteis**:
-> - [Tutorial GitHub](https://guides.github.com/activities/hello-world/)
-> - [Git e Github](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
-> - [5 Git Workflows & Branching Strategy to deliver better code](https://zepel.io/blog/5-git-workflows-to-improve-development/)
->
-> **Exemplo - GitHub Feature Branch Workflow**:
->
-> ![Exemplo de Wireframe](images/Github-Workflow.png)
+ Bugs ou feature-requests devem ser registrados no issue tracker do repositório GitHub (será usado as tags (bugfix ou feature)
+ 
+ Foi utilizado para hospedagem do repositório `upstream`.
+ O projeto segue a seguinte convenção para o nome de branchs:
+ 
+ - `master`: versão estável já testada do software
+ - `unstable`: versão já testada do software, porém instável
+- `testing`: versão em testes do software
+ - `dev`: versão de desenvolvimento do software
+ 
+ Quanto à gerência de issues, o projeto adota a seguinte convenção para etiquetas:
+ 
+ - `bugfix`: uma funcionalidade encontra-se com problemas
+ - `enhancement`: uma funcionalidade precisa ser melhorada
+ - `feature`: uma nova funcionalidade precisa ser introduzida
 
 # **############## SPRINT 1 ACABA AQUI #############**
 
