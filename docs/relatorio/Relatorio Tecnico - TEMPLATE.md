@@ -178,8 +178,8 @@ A equipe utilizou o Discord para fazer reuniões, nessas reuniões, foi discutid
 O Git foi o software de controle de versão escolhido.
 O repositório Git é hospedado no GitHub.
 Devido  ao projeto ser relativamente pequeno, optamos não introduzir metodologias mais bem formuladas para economizarmos tempo.
-- Será feita a manutenção de um branch (master)
-- Novas (feature) é introduzida em uma branch separada, que poderá ser unificada à (master) através da solicitação de pull requests
+- Será feita a manutenção de um branch `master`
+- Novas (feature) é introduzida em uma branch separada, que poderá ser unificada à `master` através da solicitação de pull requests
 
  Bugs ou feature-requests devem ser registrados no issue tracker do repositório GitHub (será usado as tags (bugfix ou feature)
  
