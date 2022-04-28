@@ -120,7 +120,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RNF-001| O sistema deve ser executável em qualquer plataforma            |  MÉDIA    |
 |RNF-002| O sistema deve permitir acessibilidade ao cliente               |  BAIXA    | 
 |RNF-003| O sistema deverá apresentar um banco de dados                   |  ALTA     |
-|RNF-001|	É necessário um sistema responsivo	                            | MÉDIA     |
+|RNF-004|	É necessário um sistema responsivo	                            | MÉDIA     |
 
 ## Restrições
 
