@@ -108,15 +108,19 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |------|----------------------------------------------------------------------|-------|
 |RF-001| Identificar preços atuais dos jogos em plataformas e sites diversos. | ALTA  | 
 |RF-002| Criar sistema de cadastro e notificação por e-mail.                  | MÉDIA |
-|RF-003| Fazer a comparação do preço entre as opções obtidas.                 | ALTA |
+|RF-003| Fazer a comparação do preço entre as opções obtidas.                 | ALTA  |
+|RF-004| Implementar atualizações de notícias agregantes                      |	ALTA  |
+
 
 
 ### Requisitos não Funcionais
 
-|ID     | Descrição do Requisito  |Prioridade |
-|-------|-------------------------|-----------|
-|RNF-001| O sistema deve ser executável em qualquer plataforma  | MÉDIA | 
-|RNF-002| O sistema deve permitir acessibilidade ao cliente     |  BAIXA | 
+|ID     | Descrição do Requisito                                          |Prioridade |
+|-------|-----------------------------------------------------------------|-----------|
+|RNF-001| O sistema deve ser executável em qualquer plataforma            |  MÉDIA    |
+|RNF-002| O sistema deve permitir acessibilidade ao cliente               |  BAIXA    | 
+|RNF-003| O sistema deverá apresentar um banco de dados                   |  ALTA     |
+|RNF-001|	É necessário um sistema responsivo	                            | MÉDIA     |
 
 ## Restrições
 
