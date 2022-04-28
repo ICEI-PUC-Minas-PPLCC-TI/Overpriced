@@ -1,11 +1,12 @@
 # Informações do Projeto
-`E-GameSales`  
+`NOME DO PROJETO`  
 
-......  Alto Custo de Jogos ......
+
+E-GameSales
 
 `CURSO` 
 
-......  Ciência da Computação ......
+Ciência da Computação
 
 ## Participantes
 
