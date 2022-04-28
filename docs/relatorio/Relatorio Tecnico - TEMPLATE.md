@@ -1,5 +1,5 @@
 # Informações do Projeto
-`TÍTULO DO PROJETO`  
+`E-GameSales`  
 
 ......  Alto Custo de Jogos ......
 
