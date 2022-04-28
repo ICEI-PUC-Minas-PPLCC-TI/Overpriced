@@ -9,7 +9,7 @@ Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.
 * Charles Gonçalves Esteves
 * Rafael Cangussu Dallariva
 * Tarcisio Ferraz Juste Silva
-* Victor Soares Bergo de Aguiar
+* Victor Soares Bergo de Aguiar 
 * 
 
 ## Professores responsáveis
