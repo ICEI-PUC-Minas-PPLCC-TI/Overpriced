@@ -91,10 +91,10 @@ Este projeto tem o intuito de criar um site visando ajudar as pessoas com proble
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
-|EU COMO        | QUERO/PRECISO                             |PARA                                        |   
-|Lucas         | Agilizar minhas compras de jogos           | Poupar tempo                               |
-|Pedro         | Comprar mais jogos porém barato            | Jogar mais jogos                           |     
-|Ana           | Adquirir jogos com preços acessíveis       | Jogar mesmo tendo dificuldades financeiras |  
+|EU COMO       | QUERO/PRECISO                             |PARA                                        |   
+|Lucas         | Agilizar minhas compras de jogos          | Poupar tempo                               |
+|Pedro         | Comprar mais jogos porém barato           | Jogar mais jogos                           |     
+|Ana           | Adquirir jogos com preços acessíveis      | Jogar mesmo tendo dificuldades financeiras |  
 
 
 ## Requisitos
