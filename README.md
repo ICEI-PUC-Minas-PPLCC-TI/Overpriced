@@ -4,7 +4,6 @@ O preço para compra jogos no Brasil é extremamente alto, dificultando o acesso
 
 ## Alunos integrantes da equipe 
 
-* Alberto Oswaldo Continentino de Araujo Neto
 * Charles Gonçalves Esteves
 * Gustavo Mariz Andrade
 * Rafael Cangussu Dallariva
