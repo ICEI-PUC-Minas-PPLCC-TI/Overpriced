@@ -198,33 +198,24 @@ Devido  ao projeto ser relativamente pequeno, optamos não introduzir metodologi
  - `enhancement`: uma funcionalidade precisa ser melhorada
  - `feature`: uma nova funcionalidade precisa ser introduzida
 
-# **############## SPRINT 1 ACABA AQUI #############**
-
-
 # Projeto da Solução
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Nossa parte do projeto encontra-se os detalhes técnicos da solução do nosso problema.
+Aqui está presente as telas implementadas e a arquitetura da solução.
 
 ## Tecnologias Utilizadas
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Será utilizados telas feitas em HTML, estilizadas em CSS com implementação de JavaScript para resolver o problema.
+O GitHub está sendo usado como controle de versão, utilizando de ferramentas como Visual Studio Code.
 
-> Descreva aqui qual(is) tecnologias você vai usar para resolver o seu
-> problema, ou seja, implementar a sua solução. Liste todas as
-> tecnologias envolvidas, linguagens a serem utilizadas, serviços web,
-> frameworks, bibliotecas, IDEs de desenvolvimento, e ferramentas.
-> Apresente também uma figura explicando como as tecnologias estão
-> relacionadas ou como uma interação do usuário com o sistema vai ser
-> conduzida, por onde ela passa até retornar uma resposta ao usuário.
-> 
-> Inclua os diagramas de User Flow, esboços criados pelo grupo
-> (stoyboards), além dos protótipos de telas (wireframes). Descreva cada
-> item textualmente comentando e complementando o que está apresentado
-> nas imagens.
+![image](https://user-images.githubusercontent.com/100237121/177854058-36203698-a51e-45eb-ad5f-778d5053f755.png)
+
+Acima se encontra uma tela ja pronta de acordo com os esboços, porém com devidas alterações.
+Está é a tela principal do projeto, qual ela busca resolver este problema.
 
 ## Arquitetura da solução
 
-......  COLOQUE AQUI O SEU TEXTO E O DIAGRAMA DE ARQUITETURA .......
+
 
 > Inclua um diagrama da solução e descreva os módulos e as tecnologias
 > que fazem parte da solução. Discorra sobre o diagrama.
@@ -236,53 +227,37 @@ Devido  ao projeto ser relativamente pequeno, optamos não introduzir metodologi
 
 # Avaliação da Aplicação
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Requisitos atendidos:
+RF-001
+RF-003
+RNF-001
+RNF-002
+RNF-004
+Todoas as restrições foram atendidas.
 
-> Apresente os cenários de testes utilizados na realização dos testes da
-> sua aplicação. Escolha cenários de testes que demonstrem os requisitos
-> sendo satisfeitos.
+Os cenários de teste da aplicação se consiste em testar todas as validações dos campos a serem preenchidos no site, além de testar a funcionalidade geral do site e conferir se ele realmente está resolvendo o problema descrito no projeto.
+Assim, cumprindo todas as restrições citadas acima no relatório.
+Garantindo assim, que os requisitos não funcionais e funcionais que são necessários para resolver o problema estjam sendo cumpridos, como mostra o site em si.
 
 ## Plano de Testes
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Enumere quais cenários de testes foram selecionados para teste. Neste
-> tópico o grupo deve detalhar quais funcionalidades avaliadas, o grupo
-> de usuários que foi escolhido para participar do teste e as
-> ferramentas utilizadas.
-> 
-> **Links Úteis**:
-> - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Práticas e Técnicas de Testes Ágeis](http://assiste.serpro.gov.br/serproagil/Apresenta/slides.pdf)
-> -  [Teste de Software: Conceitos e tipos de testes](https://blog.onedaytesting.com.br/teste-de-software/)
-
-## Ferramentas de Testes (Opcional)
-
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Comente sobre as ferramentas de testes utilizadas.
-> 
-> **Links Úteis**:
-> - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
-> - [UX Tools](https://uxdesign.cc/ux-user-research-and-user-testing-tools-2d339d379dc7)
+Foi selecionada como cenários para testes uma simulação de um usuário de acordo com as personas para entrar no site, verificando os campos a serem preenchidos, assim, garantindo a funcionalidade dos métodos de JavaScript.
+Também foi testado a responsividade do site, de acordo com o HTML e CSS.
+Por fim, concluimos os testes verificando se o usuário ficou satisfeito com a proposta para a solução do site, de acordo com as restrições e requisitos impostos no projeto.
 
 ## Registros de Testes
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Discorra sobre os resultados do teste. Ressaltando pontos fortes e
-> fracos identificados na solução. Comente como o grupo pretende atacar
-> esses pontos nas próximas iterações. Apresente as falhas detectadas e
-> as melhorias geradas a partir dos resultados obtidos nos testes.
+Foi identificado como ponto forte dos testes feitos a responsividade do site, funcionalidade de login e registr e o projeto no qual atende perfeitamente ao problema, assim, concluindo o projeto de modo no qual foi projetado.
+Como ponto fraco, obtivemos dificuldade em produzir métodos de JavaScript na parte de verificação de local storage, assim, tendo dificuldades para melhorar o código ao decorrar da sprint 2 para sprint 3.
 
 
 # Referências
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Inclua todas as referências (livros, artigos, sites, etc) utilizados
-> no desenvolvimento do trabalho.
-> 
-> **Links Úteis**:
-> - [Formato ABNT](https://www.normastecnicas.com/abnt/trabalhos-academicos/referencias/)
-> - [Referências Bibliográficas da ABNT](https://comunidade.rockcontent.com/referencia-bibliografica-abnt/)
+https://github.com
+https://canaltech.com.br
+https://www.youtube.com
+https://stackoverflow.com
+https://miro.com/pt/
+https://www.loom.com/share/da5ff9cc1e674bec9f85da058e3631c6
+https://drive.google.com/file/d/1bzPVkQTe_KLWLzKAK008SKVHFeMTAseH/view
+https://drive.google.com/file/d/1aYhm0E3gn0LfauSpEoBj3AN2ilWuVs_B/view
