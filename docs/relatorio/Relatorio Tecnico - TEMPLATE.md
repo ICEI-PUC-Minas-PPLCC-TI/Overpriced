@@ -247,6 +247,9 @@ Por fim, concluimos os testes verificando se o usuário ficou satisfeito com a p
 Foi identificado como ponto forte dos testes feitos a responsividade do site, funcionalidade de login e registr e o projeto no qual atende perfeitamente ao problema, assim, concluindo o projeto de modo no qual foi projetado.
 Como ponto fraco, obtivemos dificuldade em produzir métodos de JavaScript na parte de verificação de local storage, assim, tendo dificuldades para melhorar o código ao decorrar da sprint 2 para sprint 3.
 
+## Hospedagem
+
+https://Overprice.gustavomariz.repl.co
 
 # Referências
 
