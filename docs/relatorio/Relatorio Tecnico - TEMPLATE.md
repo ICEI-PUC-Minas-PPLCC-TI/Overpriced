@@ -216,11 +216,11 @@ Está é a tela principal do projeto, qual ela busca resolver este problema.
 ## Arquitetura da solução
 
 A solução implementada contem os seguintes módulos:
->Páginas Web - arquivos HTML, CSS, JavaScript e imagens que fazem parte do site;
->
->Local Storage - armazenamento local no navegador com implementação de banco de dados;
->
->Hospedagem - local na web onde as páginas são mantidas. 
+Páginas Web - arquivos HTML, CSS, JavaScript e imagens que fazem parte do site;
+
+Local Storage - armazenamento local no navegador com implementação de banco de dados;
+
+Hospedagem - local na web onde as páginas são mantidas. 
 
 # Avaliação da Aplicação
 
