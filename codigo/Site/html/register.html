@@ -13,41 +13,46 @@
       rel="stylesheet"
     />
 
-    <link rel="stylesheet" href="../css/forgot.css" />
+    <link rel="stylesheet" href="../css/registro.css" />
     <link rel="stylesheet" href="../css/global.css" />
 
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Overprice</title>
+    <title>Overpriced</title>
   </head>
   <body>
     <header>
       <div>
         <h4>Overpriced</h4>
 
-        <input type="text" placeholder="Pesquisar" />
         <div class="navs-container">
-          <a href="">Home</a>
-          <a href="">Jogos</a>
-          <a href="">Noticias</a>
-          <a href="" class="active">Entrar</a>
+          <a href="./index.html">Jogos</a>
+          <a href="./tela 2.html">Jogos</a>
         </div>
       </div>
     </header>
+
     <main>
-      <h1>Não se preocupe!</h1>
-      <p>Complete o formulario para alterar sua senha!</p>
-      <form onsubmit="changePassword()">
-        <h3>Email</h3>
+      <h1>Seja bem vindo!</h1>
+      <p>Registre-se e receba as notificações mais recentes de descontos dos seus jogos favoritos!</p>
+      <form onsubmit="onRegister()">
+        <h3>Usuário</h3>
         <input
           style="border: 2px solid #4749ca"
+          type="text"
+          name="user"
+          id="user"
+          placeholder="seu usuário"
+        />
+        <h3>Email</h3>
+        <input
           type="text"
           name="email"
           id="email"
           placeholder="seu@email.com"
         />
-        <h3>Nova Senha</h3>
+        <h3>Senha</h3>
         <input
           type="password"
           name="senha"
@@ -59,11 +64,16 @@
           type="submit"
           name="submit"
           id="submit"
-          value="Alterar Senha"
+          value="Registrar"
         />
+        <a href="login.html" class="register"
+          >Já tem uma conta? <span>Logar</span></a
+        >
       </form>
-      <a href="login.html">Voltar</a>
     </main>
+    <div class="left-container">
+      <img src="../assets/background.jpg" />
+    </div>
     <script src="../scripts/auth.js"></script>
   </body>
 </html>

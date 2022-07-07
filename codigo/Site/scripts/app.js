@@ -38,8 +38,12 @@ function insertContato(contato) {
     };
 
     // Insere o novo objeto no array
-    db.data.push(novoContato);
-    displayMessage("Jogo inserido com sucesso");
+    if ((novoContato.nome == '') || (novoContato.email = '') || (novoContato.telefone = '') || (novoContato.cidade = '')) {
+        displayMessage("Campo obrigatório vazio!");
+    } else {
+        db.data.push(novoContato);
+        displayMessage("Jogo inserido com sucesso!");
+    }
 
     // Atualiza os dados no Local Storage
     localStorage.setItem('db_contato', JSON.stringify(db));

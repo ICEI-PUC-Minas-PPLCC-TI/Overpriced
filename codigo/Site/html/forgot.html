@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
   <head>
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -13,7 +13,7 @@
       rel="stylesheet"
     />
 
-    <link rel="stylesheet" href="../css/login.css" />
+    <link rel="stylesheet" href="../css/forgot.css" />
     <link rel="stylesheet" href="../css/global.css" />
 
     <meta charset="UTF-8" />
@@ -26,19 +26,16 @@
       <div>
         <h4>Overpriced</h4>
 
-        <input type="text" placeholder="Pesquisar" />
         <div class="navs-container">
-          <a href="">Home</a>
-          <a href="">Jogos</a>
-          <a href="">Noticias</a>
-          <a href="" class="active">Entrar</a>
+          <a href="./index.html">Edição dos jogos</a>
+          <a href="./tela 2.html">Jogos</a>
         </div>
       </div>
     </header>
     <main>
-      <h1>Bem vindo de volta!</h1>
-      <p>Utilize suas credenciais para entrar na plataforma!</p>
-      <form onsubmit="onLogin()">
+      <h1>Não se preocupe!</h1>
+      <p>Complete o formulario para alterar sua senha!</p>
+      <form onsubmit="changePassword()">
         <h3>Email</h3>
         <input
           style="border: 2px solid #4749ca"
@@ -47,7 +44,7 @@
           id="email"
           placeholder="seu@email.com"
         />
-        <h3>Senha</h3>
+        <h3>Nova Senha</h3>
         <input
           type="password"
           name="senha"
@@ -59,18 +56,11 @@
           type="submit"
           name="submit"
           id="submit"
-          value="Logar"
+          value="Alterar Senha"
         />
-        <a href="forgot.html" class="forgot">Esqueci minha senha</a>
-        <a href="register.html" class="register"
-          >Ainda não tem uma conta? <span>Registrar</span></a
-        >
       </form>
+      <a href="login.html">Voltar</a>
     </main>
-    <div class="left-container">
-      <img src="../assets/background.jpg" />
-    </div>
-
     <script src="../scripts/auth.js"></script>
   </body>
 </html>

@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
   <head>
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -13,43 +13,32 @@
       rel="stylesheet"
     />
 
-    <link rel="stylesheet" href="../css/registro.css" />
+    <link rel="stylesheet" href="../css/login.css" />
     <link rel="stylesheet" href="../css/global.css" />
 
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Overpriced</title>
+    <title>Overprice</title>
   </head>
   <body>
     <header>
       <div>
         <h4>Overpriced</h4>
 
-        <input type="text" placeholder="Pesquisar" />
         <div class="navs-container">
-          <a href="">Home</a>
-          <a href="">Jogos</a>
-          <a href="">Noticias</a>
+          <a href="./index.html">jogos</a>
           <a href="" class="active">Entrar</a>
         </div>
       </div>
     </header>
-
     <main>
-      <h1>Seja bem vindo!</h1>
-      <p>Registre-se e receba as notificações mais recentes de descontos dos seus jogos favoritos!</p>
-      <form onsubmit="onRegister()">
-        <h3>Usuário</h3>
-        <input
-          style="border: 2px solid #4749ca"
-          type="text"
-          name="user"
-          id="user"
-          placeholder="seu usuário"
-        />
+      <h1>Bem vindo de volta!</h1>
+      <p>Utilize suas credenciais para entrar na plataforma!</p>
+      <form onsubmit="onLogin()">
         <h3>Email</h3>
         <input
+          style="border: 2px solid #4749ca"
           type="text"
           name="email"
           id="email"
@@ -67,16 +56,18 @@
           type="submit"
           name="submit"
           id="submit"
-          value="Registrar"
+          value="Logar"
         />
-        <a href="login.html" class="register"
-          >Já tem uma conta? <span>Logar</span></a
+        <a href="forgot.html" class="forgot">Esqueci minha senha</a>
+        <a href="register.html" class="register"
+          >Ainda não tem uma conta? <span>Registrar</span></a
         >
       </form>
     </main>
     <div class="left-container">
       <img src="../assets/background.jpg" />
     </div>
+
     <script src="../scripts/auth.js"></script>
   </body>
 </html>
