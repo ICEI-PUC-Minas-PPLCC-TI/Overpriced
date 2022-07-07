@@ -36,34 +36,31 @@ function insertContato(contato) {
         "cidade" : contato.cidade,
         "categoria": contato.categoria
     };
-    let bool = false;
+
+    var deuErro = false;
+
     // Insere o novo objeto no array
     if (novoContato.nome == '') {
+        deuErro = true;
         displayMessage("Campo obrigatório vazio!");
-    } else {
-        bool = true;
     }
     if (novoContato.email == '') {
+        deuErro = true;
         displayMessage("Campo obrigatório vazio!");
-    } else {
-            bool = true
     }
     if (novoContato.telefone == '') {
+        deuErro = true;
         displayMessage("Campo obrigatório vazio!");
-    } else {
-        bool = true;
     }
     if (novoContato.cidade == '') {
+        deuErro = true;
         displayMessage("Campo obrigatório vazio!");
-    } else {
-        bool = true;
     }
-         
-    } if (!bool) {
+    if (!deuErro) {
         db.data.push(novoContato);
         displayMessage("Jogo inserido com sucesso!");
     }
-
+}
     // Atualiza os dados no Local Storage
     localStorage.setItem('db_contato', JSON.stringify(db));
 
