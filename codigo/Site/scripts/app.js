@@ -36,27 +36,36 @@ function insertContato(contato) {
         "cidade" : contato.cidade,
         "categoria": contato.categoria
     };
-
+    let bool = false;
     // Insere o novo objeto no array
     if (novoContato.nome == '') {
         displayMessage("Campo obrigatório vazio!");
-        if (novoContato.email == ''){
-            displayMessage("Campo obrigatório vazio!"); 
-            if (novoContato.telefone == '') {
-                displayMessage("Campo obrigatório vazio!");
-                if (novoContato.cidade == '') {
-                    displayMessage("Campo obrigatório vazio!");
-                }
-            }
-        }
     } else {
+        bool = true;
+    }
+    if (novoContato.email == '') {
+        displayMessage("Campo obrigatório vazio!");
+    } else {
+            bool = true
+    }
+    if (novoContato.telefone == '') {
+        displayMessage("Campo obrigatório vazio!");
+    } else {
+        bool = true;
+    }
+    if (novoContato.cidade == '') {
+        displayMessage("Campo obrigatório vazio!");
+    } else {
+        bool = true;
+    }
+         
+    } if (!bool) {
         db.data.push(novoContato);
         displayMessage("Jogo inserido com sucesso!");
     }
-    
+
     // Atualiza os dados no Local Storage
     localStorage.setItem('db_contato', JSON.stringify(db));
-}
 
 function updateContato(id, contato) {
     // Localiza o indice do objeto a ser alterado no array a partir do seu ID
